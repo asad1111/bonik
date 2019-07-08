@@ -210,8 +210,16 @@
             top: -605px;
         }
         
+        #paragraph {
+            
+            font-weight: bold;
+            font-size: 30px;
+            position: relative;
+            float: left;
+            left: -600px;
+            top: -600px;
+        }
        
-
              
     </style>
    
